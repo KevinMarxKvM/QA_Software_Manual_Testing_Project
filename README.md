@@ -59,6 +59,8 @@ This project is a demonstration of manual software testing skills using OpenCart
 
 ### Front End Store and Database URLs
 
+https://demo.opencart.com
+
 - Front End Store URL: http://localhost/opencart/
 - Database URL: http://localhost/phpmyadmin/
 
